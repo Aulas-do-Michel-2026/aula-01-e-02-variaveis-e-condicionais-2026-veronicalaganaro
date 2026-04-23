@@ -4,7 +4,7 @@ posição = int (input("Digite a posição: "))
 inicio_brca1 = 41196312
 fim_brca1 = 41277500
 
-if cromossomo == "chr17" and inicio_braca1 <= posição <= fim_brca1:
+if cromossomo == "chr17" and inicio_brca1 <= posição <= fim_brca1:
     print ("Resposta: Sim")
 else:
     print("Resposta: Não")
