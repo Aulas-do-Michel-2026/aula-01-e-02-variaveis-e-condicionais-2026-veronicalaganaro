@@ -5,6 +5,6 @@ inicio_brca1 = 41196312
 fim_brca1 = 41277500
 
 if cromossomo == "chr17" and inicio_brca1 <= posição <= fim_brca1:
-    print ("Resposta: Sim")
+ Resposta: "Sim"
 else:
-    print("Resposta: Não")
+Resposta: "Não"
